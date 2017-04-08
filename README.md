@@ -1,6 +1,10 @@
-# vuex-test
+# Vue.js 2 State Management With Vuex - Introduction
+## Sample Application
 
-> A Vue.js project
+This is the sample app of the tutorial __Vue.js 2 State Management With Vuex - Introduction__ available on [CodingTheSmartWay.com](http://codingthesmartway.com/).
+
+## Online Course
+Check out the online course: [Vue.js 2 - The Complete Guide incl. Vuex](http://codingthesmartway.com/courses/vuejs2-complete-guide/)
 
 ## Build Setup
 
@@ -17,5 +21,3 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
